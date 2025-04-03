@@ -7,3 +7,23 @@ h5{
     word-spacing: 20px;
     background-color: rgb(220, 197, 153);
  }
+ #para2{
+    /* color: chocolate;
+    border-width: 10px;
+    border-style: solid;
+    border-color: rgb(26, 168, 168); */
+    border: 50px dashed orange;
+    text-align: center;
+    
+
+ }
+
+ .para1{
+    color: rgb(208, 41, 91);
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    padding: 50px;
+    margin: 50px;
+    text-align: center;
+ }
